@@ -1,3 +1,4 @@
 # wock
 ### Horrid looking Discord bot made by @rxistaken <br>
-> Backup link: https://gitlab.com/wockbot/wock
+> Credits: caden (me, @shyningonwesternave on Discord) <br>
+https://gitlab.com/wockbot/wock
